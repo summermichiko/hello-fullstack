@@ -1,4 +1,4 @@
 hello-fullstack
 ===============
 
-test repository for Fullstack Foundations
+test repository for Fullstack Foundations with some information about me
